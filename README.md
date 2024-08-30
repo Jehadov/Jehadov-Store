@@ -10,3 +10,4 @@ This project marks my first experience in web development, focusing on creating 
 **Jehadov Store** is designed to help customers easily find and browse various products, from groceries to household items. The store's layout simplifies the shopping experience, with clear navigation and categorized product cards that guide users to the items they need. Special features like the Offers page help customers discover discounts, while the Customer Service page ensures they can quickly get support when needed.
 
 ![HomePage Image](https://github.com/user-attachments/assets/89f7ea43-158e-422a-b87b-940616992e31)
+![Offer Page](https://github.com/user-attachments/assets/55ba9bde-c668-493d-82fc-a44f17df688f)
